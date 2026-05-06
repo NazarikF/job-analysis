@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Python Trainee",
+    "company": "SoftServe",
+    "description": "Python, automation, basic API knowledge"
+  },
+  {
+    "title": "Junior Python Developer",
+    "company": "EPAM",
+    "description": "Python, Django, REST, SQL"
+  },
+  {
+    "title": "Automation Intern",
+    "company": "Startup",
+    "description": "Python, scripting, data processing"
+  }
+]
